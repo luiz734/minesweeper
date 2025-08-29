@@ -1,0 +1,12 @@
+res://default_env.tres
+res://scenes/main.tscn
+res://default_theme.tres
+res://scenes/mine.tscn
+res://scripts/Mine.gd
+res://scripts/GameLogic.gd
+res://scripts/MineBomb.gd
+res://scenes/MineBomb.tscn
+res://scripts/Globals.gd
+res://cell_theme.tres
+res://scripts/Timer.gd
+res://README.md

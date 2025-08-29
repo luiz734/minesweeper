@@ -1,7 +1,7 @@
-[gd_scene load_steps=3 format=2]
+[gd_scene load_steps=3 format=3 uid="uid://dq7nih4vlbjoq"]
 
-[ext_resource path="res://scenes/mine.tscn" type="PackedScene" id=1]
-[ext_resource path="res://scripts/MineBomb.gd" type="Script" id=2]
+[ext_resource type="PackedScene" uid="uid://bgb2w7fue4ufh" path="res://scenes/mine.tscn" id="1"]
+[ext_resource type="Script" uid="uid://cyxblrfvotmlo" path="res://scripts/MineBomb.gd" id="2"]
 
-[node name="background" instance=ExtResource( 1 )]
-script = ExtResource( 2 )
+[node name="background" instance=ExtResource("1")]
+script = ExtResource("2")
